@@ -1,3 +1,3 @@
 # .edrc
 
-My personal [`.edrc`](.edrc) settings.
+My personal ~/[`.edrc`](.edrc) settings.
